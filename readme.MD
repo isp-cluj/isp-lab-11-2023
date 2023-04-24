@@ -4,7 +4,7 @@ Useful documentation:<br>
 https://www.w3schools.com/java/java_lambda.asp<br>
 https://stackify.com/streams-guide-java-8/
 
-1) Have a look at <b>ExampleLambdas</b>. Design a simple meaningful application tha contains at least one functional interface.
+1) Have a look at <b>ExampleLambdas</b>. Design a simple meaningful application that contains at least one functional interface.
    Implement these interface(s) by using lambda expressions.
 
 2) Run the examples from <B>ExampleStreams</b>. Implement the two methods that are not yet implemented.
